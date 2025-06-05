@@ -1,0 +1,12 @@
+{
+  "categories": {
+    "1": "crack",
+    "2": "black_spot",
+    "3": "porosity"
+  },
+  "repairs": {
+    "crack": {"repairable": true, "method": "Fill with ceramic slurry and re-fire."},
+    "black_spot": {"repairable": false, "method": "Discard or use as second grade."},
+    "porosity": {"repairable": true, "method": "Apply glaze and re-fire."}
+  }
+}
